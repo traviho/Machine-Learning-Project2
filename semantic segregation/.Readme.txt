@@ -1,0 +1,1 @@
+just unzip the VOCtrainval and run the main.py
